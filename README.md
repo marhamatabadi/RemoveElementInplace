@@ -80,7 +80,7 @@ To solve this problem efficiently, we can use the **two-pointer technique**. The
 4.  After the loop, `k` will be the number of elements not equal to `val`, and the first `k` elements of `nums` will contain these values.
 
 ## Solution
-![alt](https://github.com/marhamatabadi/RemoveElementInplace/Images/Solution.jpg)
+![Solution](https://github.com/marhamatabadi/RemoveElementInplace/blob/main/Images/Solution.jpg)
 
 ## Testing
 
@@ -88,7 +88,7 @@ You can test your implementation using the provided **Custom Judge** code snippe
 
 **Example Test Case:**
 
-![alt](https://github.com/marhamatabadi/RemoveElementInplace/Images/Test.jpg)
+![Test](https://github.com/marhamatabadi/RemoveElementInplace/blob/main/Images/Test.jpg)
 
 ## Conclusion
 
